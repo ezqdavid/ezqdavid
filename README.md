@@ -1,5 +1,5 @@
-### Hola 
-## Bivenvenidx a mi Github ✨
+# Hola 
+### Bivenvenidx a mi Github ✨
 
 <!--
 **ezqdavid/ezqdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
